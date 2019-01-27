@@ -1,5 +1,3 @@
-import glob
-
 from flask import jsonify
 
 from google.auth import compute_engine
